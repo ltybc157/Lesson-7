@@ -1,4 +1,4 @@
-window.addEventListener('DOMcontentLoad', function () {
+window.addEventListener('DOMContentLoaded', function () {
 
     'use strict';
     let tab = document.querySelectorAll('.info-header-tab'),
